@@ -1,7 +1,11 @@
 package _00_Sorting_Algorithms;
 
 public class _00_SortedArrayChecker {
+	
 	//1. Write a static method called intArraySorted. 
+	public static void intArraySorted(int[] array) {
+		
+	}
 	//   This method takes in an array of integers
 	//   and it returns a boolean.
 	//   The method returns true if the integer
